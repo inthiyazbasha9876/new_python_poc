@@ -1,0 +1,99 @@
+{
+    "loginDetails":[
+        {
+            "email":"madan.sirish63@gmail.com",
+            "password":"password",
+            "role":"admin",
+            "id":1
+        },
+        {
+            "email":"basha@gmail.com",
+            "password":"password",
+            "role":"student",
+            "id":2
+        },
+        {
+            "email":"rani@gmail.com",
+            "password":"password",
+            "role":"student",
+            "id":3
+        },
+        {
+            "email":"siri@gmail.com",
+            "password":"password",
+            "role":"student",
+            "id":4
+        }
+    ],
+  "students": [
+    {
+      "username": "madan",
+      "email": "madan.sirish63@gmail.com",
+      "phone_number": "123456789",
+      "first_name": "sirish",
+      "last_name": "rebbavarapu",
+      "address": "hyderabad",
+      "gender": "male",
+      "id":1
+    },
+    {
+      "username": "basha",
+      "email": "basha@gmail.com",
+      "phone_number": "123456789",
+      "first_name": "basha",
+      "last_name": "S",
+      "address": "hyderabad",
+      "gender": "male",
+      "id":2
+    },
+    {
+      "username": "Rani",
+      "email": "rani@gmail.com",
+      "phone_number": "123456789",
+      "first_name": "Rani",
+      "last_name": "K",
+      "address": "hyderabad",
+      "gender": "female",
+      "id":3
+    },
+    {
+      "username": "Siri",
+      "email": "siri@gmail.com",
+      "phone_number": "123456789",
+      "first_name": "Sirisha",
+      "last_name": "M",
+      "address": "hyderabad",
+      "gender": "female",
+      "id":4
+    }
+  ],
+  "branchList": [
+    {
+      "branchName": "Sunshaine",
+      "address": {
+        "street": "Prashant Hills",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "zip": "500032"
+      },
+      "created_Date": "2020-10-04T17:59:38.637Z",
+      "flage": true,
+      "id": 1
+    },
+    {
+      "branchName": "Ojas",
+      "address": {
+        "street": "Raidurgam X roads",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "zip": "500008"
+      },
+      "created_Date": "2020-10-04T18:00:22.318Z",
+      "flage": true,
+      "id": 2
+    }
+  ],
+  "booked":[
+    
+  ]
+}
